@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: images/streamlit_logo_black.png
+background: /images/streamlit_logo_black.png
 class: 'text-center'
 highlighter: shiki
 title: 'Streamlit - Python na web'
