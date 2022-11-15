@@ -1,11 +1,14 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slides - Exemplo Streamlit
 
-To start the slide show:
+Slides que utilizo na palestra sobre Streamlit.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+[Link para a apresentação](https://franciscobustamante.com.br/exemplo-streamlit-slidev/)
 
-Edit the [slides.md](./slides.md) to see the changes.
+Site exemplo criado com Streamlit:
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+<p align="center">
+<a href="https://exemplo.streamlitapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit app badge"></a>
+</p>
+
+[Repositório do exemplo criado](https://github.com/chicolucio/exemplo-streamlit)
